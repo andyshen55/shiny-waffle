@@ -1,0 +1,15 @@
+# clang-format configuration for beginner-friendly C++ code
+BasedOnStyle: LLVM
+IndentWidth: 4
+ColumnLimit: 100
+AllowShortBlocksOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+BreakBeforeBraces: Attach
+Cpp11BracedListStyle: true
+IndentCaseLabels: true
+NamespaceIndentation: None
+SortIncludes: true
+SpacesBeforeTrailingComments: 1
+TabWidth: 4
+
